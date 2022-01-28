@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Materials>
+	<Material InUse="1" MatID="1" Red="244" Green="244" Blue="244" Alpha="255" Name="White"/>
+	<Material InUse="" MatID="2" Red="138" Green="146" Blue="141" Alpha="255" Name="Grey (old)"/>
+	<Material InUse="" MatID="3" Red="255" Green="214" Blue="127" Alpha="255" Name="Light Yellow (old)"/>
+	<Material InUse="1" MatID="5" Red="176" Green="160" Blue="111" Alpha="255" Name="Brick Yellow (tan)"/>
+	<Material InUse="" MatID="6" Red="173" Green="217" Blue="168" Alpha="255" Name="Light Green (old)"/>
+	<Material InUse="" MatID="9" Red="246" Green="169" Blue="187" Alpha="255" Name="Light Reddish Violet (old)"/>
+	<Material InUse="" MatID="11" Red="171" Green="217" Blue="255" Alpha="255" Name="Pastel Blue (old)"/>
+	<Material InUse="" MatID="12" Red="216" Green="109" Blue="44" Alpha="255" Name="Light Orange Brown (old)"/>
+	<Material InUse="" MatID="18" Red="187" Green="128" Blue="90" Alpha="255" Name="Nougat"/>
+	<Material InUse="" MatID="20" Red="233" Green="233" Blue="233" Alpha="150" Name="Nature"/>
+	<Material InUse="1" MatID="21" Red="180" Green="0" Blue="0" Alpha="255" Name="Bright Red"/>
+	<Material InUse="" MatID="22" Red="208" Green="80" Blue="152" Alpha="255" Name="Medium Reddish Violet (old)"/>
+	<Material InUse="1" MatID="23" Red="30" Green="90" Blue="168" Alpha="255" Name="Bright Blue"/>
+	<Material InUse="1" MatID="24" Red="250" Green="200" Blue="10" Alpha="255" Name="Bright Yellow"/>
+	<Material InUse="" MatID="25" Red="84" Green="51" Blue="36" Alpha="255" Name="Earth Orange (old)"/>
+	<Material InUse="1" MatID="26" Red="27" Green="42" Blue="52" Alpha="255" Name="Black"/>
+	<Material InUse="" MatID="27" Red="84" Green="89" Blue="85" Alpha="255" Name="Dark Grey (old)"/>
+	<Material InUse="1" MatID="28" Red="0" Green="133" Blue="43" Alpha="255" Name="Dark Green"/>
+	<Material InUse="" MatID="29" Red="127" Green="196" Blue="117" Alpha="255" Name="Medium Green (old)"/>
+	<Material InUse="" MatID="36" Red="253" Green="195" Blue="131" Alpha="255" Name="Light Yellowish Orange (old)"/>
+	<Material InUse="" MatID="37" Red="88" Green="171" Blue="65" Alpha="255" Name="Bright Green"/>
+	<Material InUse="" MatID="38" Red="145" Green="80" Blue="28" Alpha="255" Name="Dark Orange"/>
+	<Material InUse="" MatID="39" Red="175" Green="190" Blue="214" Alpha="255" Name="Light Bluish Violet (old)"/>
+	<Material InUse="" MatID="40" Red="238" Green="238" Blue="238" Alpha="150" Name="Transparent"/>
+	<Material InUse="" MatID="41" Red="184" Green="39" Blue="0" Alpha="150" Name="Tr. Red"/>
+	<Material InUse="" MatID="42" Red="173" Green="221" Blue="237" Alpha="150" Name="Tr. Light Blue"/>
+	<Material InUse="" MatID="43" Red="119" Green="183" Blue="204" Alpha="150" Name="Tr. Blue"/>
+	<Material InUse="" MatID="44" Red="250" Green="241" Blue="93" Alpha="150" Name="Tr. Yellow"/>
+	<Material InUse="" MatID="45" Red="151" Green="203" Blue="217" Alpha="255" Name="Light Blue (old)"/>
+	<Material InUse="" MatID="47" Red="208" Green="109" Blue="79" Alpha="150" Name="Tr. Fluore.Redd. Orange"/>
+	<Material InUse="" MatID="48" Red="115" Green="180" Blue="100" Alpha="150" Name="Tr. Green"/>
+	<Material InUse="" MatID="49" Red="250" Green="241" Blue="91" Alpha="150" Name="Tr. Fluore. Green"/>
+	<Material InUse="" MatID="50" Red="229" Green="223" Blue="211" Alpha="255" Name="Phosphorescent White (old)"/>
+	<Material InUse="" MatID="100" Red="249" Green="183" Blue="165" Alpha="255" Name="Light Red (old)"/>
+	<Material InUse="" MatID="101" Red="240" Green="109" Blue="97" Alpha="255" Name="Medium Red (old)"/>
+	<Material InUse="1" MatID="102" Red="115" Green="150" Blue="200" Alpha="255" Name="Medium Blue"/>
+	<Material InUse="" MatID="103" Red="188" Green="180" Blue="165" Alpha="255" Name="Light Grey (old)"/>
+	<Material InUse="" MatID="104" Red="103" Green="31" Blue="129" Alpha="255" Name="Bright Violet (old)"/>
+	<Material InUse="" MatID="105" Red="245" Green="134" Blue="36" Alpha="255" Name="Bright Yellowish Orange (old)"/>
+	<Material InUse="1" MatID="106" Red="214" Green="121" Blue="35" Alpha="255" Name="Bright Orange"/>
+	<Material InUse="" MatID="107" Red="6" Green="157" Blue="159" Alpha="255" Name="Bright Bluish Green (old)"/>
+	<Material InUse="" MatID="108" Red="86" Green="71" Blue="47" Alpha="255" Name="Earth Yellow (old)"/>
+	<Material InUse="" MatID="109" Red="0" Green="20" Blue="20" Alpha="255" Name="Pc Black Ir"/>
+	<Material InUse="" MatID="110" Red="38" Green="70" Blue="154" Alpha="255" Name="Bright Bluish Violet (old)"/>
+	<Material InUse="" MatID="111" Red="187" Green="178" Blue="158" Alpha="150" Name="Tr. Brown"/>
+	<Material InUse="" MatID="112" Red="72" Green="97" Blue="172" Alpha="255" Name="Medium Bluish Violet"/>
+	<Material InUse="" MatID="113" Red="253" Green="142" Blue="207" Alpha="150" Name="Tr.Medium Reddish Violet"/>
+	<Material InUse="" MatID="114" Red="254" Green="0" Blue="254" Alpha="150" Name="Tr. Pink Glitter"/>
+	<Material InUse="" MatID="115" Red="183" Green="212" Blue="37" Alpha="255" Name="Medium Yellowish Green (old)"/>
+	<Material InUse="" MatID="116" Red="0" Green="170" Blue="164" Alpha="255" Name="Medium Bluish Green (old)"/>
+	<Material InUse="" MatID="117" Red="247" Green="247" Blue="247" Alpha="150" Name="Tr. w. Glitter"/>
+	<Material InUse="" MatID="118" Red="156" Green="214" Blue="204" Alpha="255" Name="Light Bluish Green (old)"/>
+	<Material InUse="1" MatID="119" Red="165" Green="202" Blue="24" Alpha="255" Name="Bright Yellowish Green (lime)"/>
+	<Material InUse="" MatID="120" Red="222" Green="234" Blue="146" Alpha="255" Name="Light Yellowish Green (old)"/>
+	<Material InUse="" MatID="121" Red="248" Green="154" Blue="57" Alpha="255" Name="Medium Yellowish Orange (old)"/>
+	<Material InUse="" MatID="123" Red="238" Green="84" Blue="52" Alpha="255" Name="Bright Reddish Orange (old)"/>
+	<Material InUse="1" MatID="124" Red="144" Green="31" Blue="118" Alpha="255" Name="Bright Reddish Violet"/>
+	<Material InUse="" MatID="125" Red="249" Green="167" Blue="119" Alpha="255" Name="Light Orange (old)"/>
+	<Material InUse="" MatID="126" Red="156" Green="149" Blue="199" Alpha="150" Name="Tr.Bright Bluish Violet"/>
+	<Material InUse="" MatID="127" Red="222" Green="172" Blue="102" Alpha="255" Name="Gold (old)"/>
+	<Material InUse="" MatID="128" Red="173" Green="97" Blue="64" Alpha="255" Name="Dark Nougat (old)"/>
+	<Material InUse="" MatID="129" Red="67" Green="84" Blue="147" Alpha="255" Name="Tr. Bluish Violet (Glitter) (old)"/>
+	<Material InUse="" MatID="131" Red="160" Green="160" Blue="160" Alpha="255" Name="Silver (old)"/>
+	<Material InUse="" MatID="133" Red="239" Green="88" Blue="40" Alpha="255" Name="Neon Orange (old)"/>
+	<Material InUse="" MatID="134" Red="205" Green="221" Blue="52" Alpha="255" Name="Neon Green (old)"/>
+	<Material InUse="" MatID="135" Red="112" Green="129" Blue="154" Alpha="255" Name="Sand Blue"/>
+	<Material InUse="" MatID="136" Red="117" Green="101" Blue="125" Alpha="255" Name="Sand Violet (old)"/>
+	<Material InUse="" MatID="137" Red="244" Green="129" Blue="71" Alpha="255" Name="Medium Orange (old)"/>
+	<Material InUse="1" MatID="138" Red="137" Green="125" Blue="98" Alpha="255" Name="Sand Yellow (dark tan)"/>
+	<Material InUse="" MatID="139" Red="118" Green="77" Blue="59" Alpha="255" Name="Copper (old)"/>
+	<Material InUse="1" MatID="140" Red="25" Green="50" Blue="90" Alpha="255" Name="Earth Blue"/>
+	<Material InUse="1" MatID="141" Red="0" Green="69" Blue="26" Alpha="255" Name="Earth Green"/>
+	<Material InUse="" MatID="143" Red="208" Green="229" Blue="255" Alpha="150" Name="Tr.Fluore. Blue"/>
+	<Material InUse="" MatID="145" Red="91" Green="117" Blue="144" Alpha="255" Name="Metallic Sand Blue (old)"/>
+	<Material InUse="" MatID="146" Red="129" Green="117" Blue="144" Alpha="255" Name="Metallic Sand Violet (old)"/>
+	<Material InUse="" MatID="147" Red="131" Green="114" Blue="79" Alpha="255" Name="Metallic Sand Yellow (old)"/>
+	<Material InUse="" MatID="148" Red="72" Green="77" Blue="72" Alpha="255" Name="Metallic Dark Grey (old)"/>
+	<Material InUse="" MatID="149" Red="10" Green="19" Blue="39" Alpha="255" Name="Metallic Black (old)"/>
+	<Material InUse="" MatID="150" Red="152" Green="155" Blue="153" Alpha="255" Name="Metallic Light Grey (old)"/>
+	<Material InUse="1" MatID="151" Red="112" Green="142" Blue="124" Alpha="255" Name="Sand Green"/>
+	<Material InUse="" MatID="153" Red="136" Green="96" Blue="94" Alpha="255" Name="Sand Red (old)"/>
+	<Material InUse="1" MatID="154" Red="114" Green="0" Blue="18" Alpha="255" Name="New Dark Red"/>
+	<Material InUse="" MatID="157" Red="255" Green="246" Blue="92" Alpha="150" Name="Tr. Fluore.Yellow (old)"/>
+	<Material InUse="" MatID="158" Red="241" Green="142" Blue="187" Alpha="150" Name="Tr. Fluore. Red (old)"/>
+	<Material InUse="" MatID="168" Red="96" Green="86" Blue="76" Alpha="255" Name="Gun Metallic (old)"/>
+	<Material InUse="" MatID="176" Red="148" Green="81" Blue="72" Alpha="255" Name="Flip/Flop Red (old)"/>
+	<Material InUse="" MatID="178" Red="171" Green="103" Blue="58" Alpha="255" Name="Yellow Flip/Flop (old)"/>
+	<Material InUse="" MatID="179" Red="115" Green="114" Blue="113" Alpha="255" Name="Silver Flip/Flop (old)"/>
+	<Material InUse="" MatID="180" Red="221" Green="152" Blue="46" Alpha="255" Name="Curry (old)"/>
+	<Material InUse="" MatID="182" Red="225" Green="141" Blue="10" Alpha="150" Name="Tr. Bright Orange"/>
+	<Material InUse="" MatID="183" Red="246" Green="242" Blue="223" Alpha="255" Name="Metallic White (old)"/>
+	<Material InUse="" MatID="184" Red="214" Green="0" Blue="38" Alpha="255" Name="Metallic Bright Red (old)"/>
+	<Material InUse="" MatID="185" Red="0" Green="89" Blue="163" Alpha="255" Name="Metallic Bright Blue (old)"/>
+	<Material InUse="" MatID="186" Red="0" Green="142" Blue="60" Alpha="255" Name="Metallic Dark Green (old)"/>
+	<Material InUse="" MatID="187" Red="87" Green="57" Blue="44" Alpha="255" Name="Metallic Earth-Orange (old)"/>
+	<Material InUse="" MatID="188" Red="0" Green="158" Blue="206" Alpha="255" Name="Tiny-Blue (old)"/>
+	<Material InUse="" MatID="189" Red="172" Green="130" Blue="71" Alpha="255" Name="Reddish Gold (old)"/>
+	<Material InUse="" MatID="190" Red="255" Green="207" Blue="11" Alpha="255" Name="Fire Yellow (old)"/>
+	<Material InUse="" MatID="191" Red="252" Green="172" Blue="0" Alpha="255" Name="Flame Yellowish Orange"/>
+	<Material InUse="1" MatID="192" Red="95" Green="49" Blue="9" Alpha="255" Name="Reddish Brown"/>
+	<Material InUse="" MatID="193" Red="236" Green="68" Blue="29" Alpha="255" Name="Flame Reddish Orange"/>
+	<Material InUse="1" MatID="194" Red="150" Green="150" Blue="150" Alpha="255" Name="Medium Stone Grey (LBG)"/>
+	<Material InUse="" MatID="195" Red="28" Green="88" Blue="167" Alpha="255" Name="Royal Blue (old)"/>
+	<Material InUse="" MatID="196" Red="14" Green="62" Blue="154" Alpha="255" Name="Dark Royal Blue (old)"/>
+	<Material InUse="" MatID="197" Red="49" Green="43" Blue="135" Alpha="255" Name="Bright Lilac (old)"/>
+	<Material InUse="" MatID="198" Red="138" Green="18" Blue="168" Alpha="255" Name="Bright Reddish Lilac (old)"/>
+	<Material InUse="1" MatID="199" Red="100" Green="100" Blue="100" Alpha="255" Name="Dark Stone Grey (DBG)"/>
+	<Material InUse="" MatID="200" Red="106" Green="121" Blue="68" Alpha="255" Name="Lemon Metallic (old)"/>
+	<Material InUse="1" MatID="208" Red="200" Green="200" Blue="200" Alpha="255" Name="Light Stone Grey"/>
+	<Material InUse="" MatID="209" Red="164" Green="118" Blue="36" Alpha="255" Name="Dark Curry (old)"/>
+	<Material InUse="" MatID="210" Red="70" Green="138" Blue="95" Alpha="255" Name="Faded Green (old)"/>
+	<Material InUse="" MatID="211" Red="63" Green="182" Blue="169" Alpha="255" Name="Turquoise (old)"/>
+	<Material InUse="1" MatID="212" Red="157" Green="195" Blue="247" Alpha="255" Name="Light Royal Blue"/>
+	<Material InUse="" MatID="213" Red="71" Green="111" Blue="182" Alpha="255" Name="Medium Royal Blue (old)"/>
+	<Material InUse="" MatID="216" Red="135" Green="43" Blue="23" Alpha="255" Name="Rust (old)"/>
+	<Material InUse="" MatID="217" Red="123" Green="93" Blue="65" Alpha="255" Name="Brown (old)"/>
+	<Material InUse="" MatID="218" Red="142" Green="85" Blue="151" Alpha="255" Name="Reddish Lilac"/>
+	<Material InUse="" MatID="219" Red="86" Green="78" Blue="157" Alpha="255" Name="Lilac"/>
+	<Material InUse="" MatID="220" Red="145" Green="149" Blue="202" Alpha="255" Name="Light Lilac"/>
+	<Material InUse="1" MatID="221" Red="211" Green="53" Blue="157" Alpha="255" Name="Bright Purple"/>
+	<Material InUse="1" MatID="222" Red="255" Green="158" Blue="205" Alpha="255" Name="Light Purple"/>
+	<Material InUse="" MatID="223" Red="241" Green="120" Blue="128" Alpha="255" Name="Light Pink"/>
+	<Material InUse="" MatID="224" Red="243" Green="201" Blue="136" Alpha="255" Name="Light Brick Yellow"/>
+	<Material InUse="" MatID="225" Red="250" Green="169" Blue="100" Alpha="255" Name="Warm Yellowish Orange"/>
+	<Material InUse="" MatID="226" Red="255" Green="236" Blue="108" Alpha="255" Name="Cool Yellow"/>
+	<Material InUse="" MatID="227" Red="201" Green="231" Blue="136" Alpha="150" Name="Tr. Bright Yellowish Green"/>
+	<Material InUse="" MatID="229" Red="172" Green="212" Blue="222" Alpha="150" Name="Tr. Light Bluish Green"/>
+	<Material InUse="" MatID="230" Red="236" Green="163" Blue="201" Alpha="150" Name="Tr. Bright Purple"/>
+	<Material InUse="" MatID="231" Red="252" Green="183" Blue="109" Alpha="150" Name="Tr. Flame Yellowish Orange"/>
+	<Material InUse="" MatID="232" Red="119" Green="201" Blue="216" Alpha="255" Name="Dove Blue"/>
+	<Material InUse="" MatID="233" Red="96" Green="186" Blue="118" Alpha="255" Name="Light Faded Green"/>
+	<Material InUse="" MatID="234" Red="251" Green="232" Blue="144" Alpha="150" Name="Tr. Fire Yellow"/>
+	<Material InUse="" MatID="236" Red="141" Green="115" Blue="179" Alpha="150" Name="Tr. Bright Reddish Lilac"/>
+	<Material InUse="1" MatID="268" Red="68" Green="26" Blue="145" Alpha="255" Name="Medium Lilac"/>
+	<Material InUse="" MatID="269" Red="62" Green="149" Blue="182" Alpha="255" Name="Tiny-Medium Blue"/>
+	<Material InUse="" MatID="283" Red="255" Green="201" Blue="149" Alpha="255" Name="Light Nougat"/>
+	<Material InUse="" MatID="284" Red="224" Green="208" Blue="229" Alpha="150" Name="Tr. Reddish Lilaq"/>
+	<Material InUse="" MatID="294" Red="213" Green="220" Blue="138" Alpha="150" Name="Phosph.Green"/>
+	<Material InUse="" MatID="296" Red="173" Green="173" Blue="173" Alpha="255" Name="Cool Silver"/>
+	<Material InUse="" MatID="297" Red="170" Green="127" Blue="46" Alpha="255" Name="Warm Gold"/>
+	<Material InUse="" MatID="298" Red="118" Green="118" Blue="118" Alpha="255" Name="Cool silver, drum lacq"/>
+	<Material InUse="" MatID="306" Red="139" Green="90" Blue="70" Alpha="255" Name="Defused Copper"/>
+	<Material InUse="1" MatID="308" Red="55" Green="33" Blue="0" Alpha="255" Name="Dark Brown"/>
+	<Material InUse="" MatID="309" Red="206" Green="206" Blue="206" Alpha="255" Name="Metalized Silver"/>
+	<Material InUse="" MatID="310" Red="223" Green="193" Blue="118" Alpha="255" Name="Metalized Gold"/>
+	<Material InUse="" MatID="311" Red="175" Green="210" Blue="70" Alpha="150" Name="Tr. Bright Green"/>
+	<Material InUse="" MatID="312" Red="170" Green="125" Blue="85" Alpha="255" Name="Medium Nougat"/>
+	<Material InUse="" MatID="315" Red="140" Green="140" Blue="140" Alpha="255" Name="Silver Metallic"/>
+	<Material InUse="" MatID="316" Red="62" Green="60" Blue="57" Alpha="255" Name="Titanium Metallic"/>
+	<Material InUse="1" MatID="321" Red="70" Green="155" Blue="195" Alpha="255" Name="Dark Azur"/>
+	<Material InUse="1" MatID="322" Red="104" Green="195" Blue="226" Alpha="255" Name="Medium Azur"/>
+	<Material InUse="1" MatID="323" Red="211" Green="242" Blue="234" Alpha="255" Name="Aqua"/>
+	<Material InUse="1" MatID="324" Red="160" Green="110" Blue="185" Alpha="255" Name="Medium Lavender"/>
+	<Material InUse="1" MatID="325" Red="205" Green="164" Blue="222" Alpha="255" Name="Lavender"/>
+	<Material InUse="" MatID="326" Red="226" Green="249" Blue="154" Alpha="255" Name="Spring Yellowish Green"/>
+	<Material InUse="" MatID="329" Red="245" Green="243" Blue="215" Alpha="255" Name="White Glow"/>
+	<Material InUse="1" MatID="330" Red="119" Green="119" Blue="78" Alpha="255" Name="Olive Green"/>
+</Materials>
+
